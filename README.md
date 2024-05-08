@@ -5,9 +5,11 @@ This demo, developed during a training course for Valuetech developers, demonstr
 
 ## creare un file .env
 OPENAI_API_KEY="xxx"
+
 OPENAI_ORGANIZATION="xxx"
 
 ## eseguire i seguenti passi
+
 node getNew.js
 node getEnbeddings.js
 node getGroups.js
