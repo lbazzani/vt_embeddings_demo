@@ -11,7 +11,7 @@ OPENAI_ORGANIZATION="xxx"
 
 ## eseguire i seguenti passi
 ```
-node getNew.js
+node getNews.js
 node getEnbeddings.js
 node getGroups.js
 node getRassegnaStampa.js
