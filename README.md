@@ -22,3 +22,6 @@ node getGroups.js
 node getRassegnaStampa.js
 ```
 
+## Data Source
+L'applicazione estrae notizie dal mio sito https://top100.news. Con un robot puppeteer in cloud, il servizio raccoglie le ultime news dalle principali testate nazionali e internazionali.
+
